@@ -1,0 +1,10 @@
+# Compiled files (IntelliJ rebuilds these)
+out/
+*.class
+
+# Files the program creates while running
+rescue_system.log
+rescue_report.txt
+
+# Personal IntelliJ settings
+.idea/workspace.xml
